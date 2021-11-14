@@ -1,0 +1,48 @@
+deleter:
+    material*:
+    displayname:
+    lore:
+    customModelData:
+    
+blank:
+    material*:
+    displayname:
+    
+available:
+    material*:
+    displayname:
+    
+unavailable:
+    material*:
+    displayname:
+    
+l0:
+    cost*:
+    miningLevel*:
+l1:
+    cost*:
+    miningLevel*:
+
+l2:
+    cost*:
+    miningLevel*:
+l3:
+    cost*:
+    miningLevel*:
+l4:
+    cost*:
+    miningLevel*:
+l5:
+    cost*:
+    miningLevel*:
+l6:
+    cost*:
+    miningLevel*:
+l7:
+    cost*:
+    miningLevel*:
+l8:
+    cost*:
+    miningLevel*:
+
+itemIgnorList:

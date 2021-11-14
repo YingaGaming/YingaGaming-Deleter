@@ -1,0 +1,8 @@
+name: YingaDeleter
+version: 1.0
+main: yingaDeleter.main.Main
+author: Hammerfels9
+api-version: 1.17
+softdepend: [Vault, mcMMO]
+commands:
+    Deleter:
